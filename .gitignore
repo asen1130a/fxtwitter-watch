@@ -1,0 +1,5 @@
+# local watcher state — never commit your own watchlist/state
+watchlist.json
+state.json
+__pycache__/
+*.log
